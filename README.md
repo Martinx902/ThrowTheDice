@@ -1,9 +1,12 @@
 # Throw the dice!
+
 GTMK Jam 2022 Submission / Theme Roll the Dice!
+
+Made in 48 hours.
 
 -------------------------------------------
 
-PUBLISHED ITCH.IO: https://gaslight-studios.itch.io/cats-potions
+PUBLISHED ITCH.IO: https://martinx902.itch.io/throw-the-dice
 
 -------------------------------------------
 
